@@ -5,9 +5,9 @@ This project analyzes sales, employee, and customer data to uncover actionable i
 It combines **Excel**, **Power BI**, and **Documentation** to provide a holistic understanding of business performance.
 
 ## 📂 Repository Structure
-- `data/` → Raw and cleaned Excel files (`Traders excel.xlsx`)
-- `powerbi/` → Power BI dashboard files (`.pbix`)
-- `docs/` → Project report, MECE breakdown, and insights (`.docx`/`.pdf`)
+- `data/` → Raw and cleaned Excel files
+- `powerbi/` → Power BI dashboard files
+- `docs/` → Project report, MECE breakdown, and insights
 - `README.md` → Project description and usage guide
 
 ## 🔍 Key Analysis Areas
